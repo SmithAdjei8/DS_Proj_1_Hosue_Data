@@ -1,0 +1,2 @@
+Project Summary
+I read the csv file (dataset) into a data frame using pandas a library of python. Some columns were dropped and values to other columns were filled using "mode" & "mean", I cleaned the data and also performed EDA by creating plots, charts etc. checking for correlation, outliers etc.
